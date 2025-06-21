@@ -1,0 +1,7 @@
+# Base64URL-encoded symmetric key
+key: >-
+  aGVsbG93b3JsZGZha2VrZXltYXRlcmlhbA
+
+# Base64URL-encoded token with header and payloa
+token: >-
+  eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiY3R5IjoiSldUIiwiZW5jIjoiQTI1NkdDTSIsImp3ayI6eyJrdHkiOiJvY3QiLCJrIjoiZmFrZXRva2VuY29udGVudCJ9fQ..fake-IV..fake-cipher..fake-auth-tag
